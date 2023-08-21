@@ -1,0 +1,50 @@
+------------------------------------------------------------------------------------
+The SA-MP modification for Grand Theft Auto: San Andreas (r) is a software project
+aimed at extending the functionality of the Grand Theft Auto: San Andreas (r)
+software for Microsoft Windows (r).
+------------------------------------------------------------------------------------
+
+SA-MP.COM MASTER LIST SERVICES AGREEMENT FOR PUBLIC SERVERS
+
+version 1.00 : 20/5/2008
+
+You must agree to all of the terms below to use the services of SA-MP.com. Violation
+of these terms will result in suspension or removal of these services. In extreme
+cases, your license to use SA-MP and the server software may be revoked. This Services
+Agreement is only valid to license holders of Grand Theft Auto: San Andreas and the
+SA-MP software extension.
+
+
+(a) Attempts must be made to protect players from access to explicit content. If your
+server contains elements that may be considered only suitable for adults, your server
+must state this fact to the player when they first join.
+
+(b) You may not connect to the SA-MP master list using custom software unless
+permission is granted by the service provider.
+
+(c) You may not attack another SA-MP server operator by way of bullying, defamation,
+Denial of Service attack tools, robots or any other means.
+
+(d) You may not make defamatory remarks about the service providers, administrators or
+developers of the SA-MP software or servers.
+
+(e) You agree SA-MP.com will not be held liable for any attacks by a third party on
+your services as a result of being listed publicly.
+
+(f) You may not violate the privacy of a player, service provider or server operator
+by means of exposing passwords or identities without consent.
+
+(g) You may not artificially increase your player count or provide false info to the
+SA-MP query mechanism.
+
+
+------------------------------------------------------------------------------------
+(c) 2005-2008 SA-MP.com team.
+
+The SA-MP.com team is not affiliated with Rockstar Games, Rockstar North or 
+Take-Two Interactive Software Inc.
+
+Grand Theft Auto and Grand Theft Auto: San Andreas are registered trademarks of
+Take-Two Interactive Software Inc.
+------------------------------------------------------------------------------------
+

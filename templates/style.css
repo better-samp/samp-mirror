@@ -1,0 +1,211 @@
+/* Stylesheet for sa-mp.com */
+
+body {
+	background-color: #777777;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 0.8em;
+}
+
+.left { text-align: left; }
+.center { text-align: center; }
+.right { text-align: right }
+.strike { text-decoration: line-through; }
+
+h1 { display: none; }
+
+
+h2 {
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 2px;
+    color: #FFFFFF; background-color: #000000;
+    background: #000000 url(../grad_thead2.png) repeat-x top left;
+}
+
+.tblhead {
+    color: #FFFFFF; background-color: #000000;
+    background: #000000 url(../grad_thead1.png) repeat-x top left;
+    padding: 0px;
+}
+
+a {
+	color: #F77016;
+	text-decoration: none;
+}
+a:hover { color: #BBBBBB; }
+
+#container {
+	top: 0%;
+	width: 100%;
+	left: 0%;
+	right: 0%;
+	position: absolute;
+}
+#main {
+	background-color: #414144;
+	padding-bottom: 3%;
+	border-bottom: 10px solid black;
+}
+
+#header {
+	text-align: center;
+	height: 131px;
+	background: transparent url(../images/head_img.png) repeat-x 0px 0px;
+}
+
+#content {
+	margin-left: 20%;
+	margin-right: 2%;
+}
+	.box, .boxcomment {
+		background-color: #222222;
+		padding-bottom: 5;
+		margin: 2;
+	}
+		.innerbox {
+			padding: 5;
+			margin: 5;
+		}
+		blockquote.box {
+			padding: 0;
+			border: 1px solid #000000;
+			margin: 5px;
+			margin-left: 10px;
+			margin-top: 0;
+		}
+		.box h2, .boxcomment h2 {
+			background-color: #000000;
+			margin-left: 0px;
+			margin-right: 0px;
+			}
+		.boxcomment {
+			margin-left: 5%;
+		}
+
+#googleadv {
+	margin-left: 20%;
+	margin-right: 2%;
+}
+
+#menu {
+	padding: 10px;
+	width: 170;
+	float: left;
+}
+	#menu ul {
+		margin: 0px;
+		padding: 0px;
+	}
+	#menu li {
+		list-style: none outside;
+		padding: 2px;
+		padding-left: 16px;
+		padding-right: 20px;
+		border-bottom: 1px solid #444444;
+		background: #222222;
+		margin-top: 2px;
+		font-size: 1.0em;
+	}
+	#menu h2 {
+		background-color: #000000;
+		text-align: center;
+	}
+	#menu p {
+		background-color: #222222;
+		text-align: left;
+		margin: 0px;
+		padding: 0px;
+	}
+
+#footer {
+	left: 50%;
+	margin-left: -25%;
+	width: 50%;
+	position: absolute;
+}
+	#footer p {
+		text-align: center;
+		font-size: 0.75em;
+		color: #111111;
+		margin: 0.5em;
+	}
+
+/* Script stuff */
+
+.scriptsource {
+	border: 2px dashed black;
+	background-color: white;
+	margin: 2em;
+	padding: 1em;
+	color: black;
+	white-space: pre;
+	overflow: auto;
+}
+	.scriptsource .keyword {
+		color: #0000FF;
+	}
+	.scriptsource .preprocessor {
+		color: #FF8000;
+	}
+	.scriptsource .string {
+		color: #AAAAAA;
+	}
+	.scriptsource .comment, .scriptsource .comment * {
+		color: #007700 !important;
+	}
+	
+/* Gallery stuff */
+
+#images {
+	margin: 5px;
+	padding: 5px;
+	font-family: Verdana;
+	text-align: center;
+}
+#images .image img {
+	padding: 2px;
+	border: 2px solid #000;
+}
+#single {
+	margin: 5px;
+	padding: 5px;
+	font-family: Verdana;
+	text-align: center;
+	overflow: hidden;
+}
+#single .image img {
+	padding: 2px;
+	border: 2px solid #000;
+	height: 50%;
+	width: 50%
+}
+#single .prev {
+	float: left;
+	margin-top: 5px;
+	padding-top: 5px;
+	text-decoration: none;
+}
+#single .next {
+	float: right;
+	margin-top: 5px;
+	padding-top: 5px;
+	text-decoration: none;
+}
+#single .linkback {
+	text-align: center;
+	display: block;
+	margin-top: 5px;
+	padding-top: 5px;
+	text-decoration: none;
+}
+
+.sortbar {
+	border-bottom: 2px solid #FFF;
+	margin: 5px;
+	padding: 5px;
+	display: block;
+	text-align: left;
+	font-weight: bold;
+}
